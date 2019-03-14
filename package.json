@@ -1,0 +1,11 @@
+{
+  "name": "assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program1.js",
+  "scripts": {
+    "test": "\u0016\"echo \\\"Error no test specified\\\""
+  },
+  "author": "Aishwarya J",
+  "license": "ISC"
+}
